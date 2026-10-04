@@ -1,32 +1,29 @@
-# Sippy Gupta · Product Manager
+# Sippy Gupta | Product Manager
 
-I’m building a portfolio of product work: identifying user needs, defining priorities, shaping experiences, and learning through working prototypes.
+I like taking an idea, making something people can try, and improving it when the experience feels confusing or incomplete.
 
-## Featured project — Tou
+This portfolio shares what I’m building, the choices I make along the way, and what I still need to learn.
 
-**A mobile pet-care prototype that explores daily engagement and character-led interaction.**
+## My first project: Tou
 
-I originated the concept and directed the product experience, using AI coding assistance to turn ideas and feedback into a working prototype.
+Tou is a small pet-care game with a triangle character. You can feed it, play together, change its look, and tell it a little about yourself.
 
-My product decisions included:
+I came up with the idea and shaped the experience, using AI coding tools to help build it. As I tried each version, I kept coming back to a simple question: what would someone want to do when they open this app?
 
-- Prioritizing daily care and conversation over secondary settings.
-- Simplifying navigation from multiple destinations to **Pet** and **Talk**.
-- Moving tricks out of customization and making them directly accessible through Play.
-- Refining audio and visual feedback so activities communicate the pet's personality.
-- Keeping personalization and remembered preferences local, without requiring an account.
-- Distinguishing prototype functionality from capabilities that still need device validation.
+That led me to:
 
-**Current outcome:** browser prototype, Android debug build, and a prepared native iOS project. No measured retention or formal user-study results are claimed.
+- Keep daily care beside the pet.
+- Cut the main navigation down to **Pet** and **Talk**.
+- Move tricks out of customization and put them under **Play**.
+- Give each activity its own animation and sound.
+- Save preferences without asking people to create an account.
 
-[Explore Tou](https://github.com/guptasippy3-cloud/tou) · [Read the product case study](https://github.com/guptasippy3-cloud/tou/blob/main/docs/CASE-STUDY.md) · [Product brief](https://github.com/guptasippy3-cloud/tou/blob/main/docs/PRODUCT-BRIEF.md)
+Tou works in a browser and has an Android test build. The iPhone project is prepared, but still needs signing and device testing. I haven’t run a formal user study or measured retention yet.
 
-## My approach
+[Explore Tou](https://github.com/guptasippy3-cloud/tou) | [Read the case study](https://github.com/guptasippy3-cloud/tou/blob/main/docs/CASE-STUDY.md) | [Product brief](https://github.com/guptasippy3-cloud/tou/blob/main/docs/PRODUCT-BRIEF.md)
 
-Start with the user’s task, prioritize what matters most, make a testable version, and refine it through feedback. I document decisions, tradeoffs, and limitations alongside the work.
+## How I work
 
-## Areas of focus
+I start with the task someone is trying to complete, decide what matters most, and build a version I can try. When something feels awkward, I revisit the decision and make another pass.
 
-Product discovery, prioritization, interaction design, rapid prototyping, and defining meaningful validation.
-
-**GitHub:** [guptasippy3-cloud](https://github.com/guptasippy3-cloud)
+I’m developing my skills in product discovery, prioritization, interaction design, and testing ideas through prototypes.
